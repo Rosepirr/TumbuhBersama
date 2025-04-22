@@ -1,0 +1,211 @@
+No,Nama,Gender,Usia (bulan),TB (cm),BB (kg),BB/U,Z-Score BB/U,BB/TB,Z-Score BB/TB,TB/U,Z-Score TB/U,Perkembangan Anak,Pola Makan,Lingkungan,Imunisasi Dasar,pendapatan keluarga,Hasil
+1,M Irsan,Laki-laki,0,47,3,Normal,-0.89,Gizi Baik,0.85,Normal,-1.98,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+2,Naya Queenza,Perempuan,1,55,4.5,Normal,-0.43,Gizi Baik,-0.12,Normal,-0.37,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+3,Arkhan Hafiz Priatna,Laki-laki,2,60,5.8,Normal,0.20,Gizi Baik,-0.39,Normal,0.62,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+4,Azka Kiya,Laki-laki,2,59,4.8,Kurang,-2.29,Gizi Kurang,-2.13,Normal,-1.09,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+5,Rafaeza,Laki-laki,2,61,6.4,Normal,0.10,Gizi Baik,0.26,Normal,-0.11,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+6,Haikal,Laki-laki,3,59,4.7,Kurang,-2.99,Gizi Kurang,-2.40,Normal,-1.78,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+7,Lucas Elden Soritua N,Laki-laki,3,60,6,Normal,-0.69,Gizi Baik,0.02,Normal,-0.94,Sehat,Baik,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+8,Mika Louis,Perempuan,3,60,4.8,Kurang,-2.23,Gizi Buruk,-3.07,Normal,-0.12,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+9,Al Fatih,Laki-laki,4,63,5.6,Kurang,-2.44,Gizi Kurang,-2.39,Normal,-1.14,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+10,Dux Muroran Sinaga,Laki-laki,4,66,6.8,Normal,-0.74,Gizi Baik,-1.22,Normal,0.29,Sehat,Baik,Aman,Tidak Lengkap,Tinggi,Tidak Berisiko
+11,Rico Cor Neuus,Laki-laki,5,66,6.5,Normal,-1.74,Gizi Baik,-1.79,Normal,-0.67,Normal,Baik,Aman,Tidak Lengkap,Tinggi,Tidak Berisiko
+12,Gattan Arrasya,Laki-laki,6,68,6.4,Kurang,-2.08,Gizi Kurang,-2.77,Normal,-0.08,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+13,Gibran Arraska,Laki-laki,6,69,6.4,Kurang,-2.08,Gizi Buruk,-3.14,Normal,0.39,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Berisiko
+14,Kai,Laki-laki,6,67,7.8,Normal,-0.30,Gizi Baik,0.10,Normal,-0.54,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+15,Ken,Laki-laki,6,67,7,Normal,-1.28,Gizi Baik,-1.24,Normal,-0.54,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+16,M Brahim,Laki-laki,6,73,9,Normal,0.86,Gizi Baik,-0.12,Normal,1.98,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+17,Safanda,Perempuan,6,66.5,5.6,Kurang,-2.13,Gizi Kurang,-2.86,Normal,-1.17,Sehat,Baik,Aman,Tidak Lengkap,Tinggi,Tidak Berisiko
+18,Zaneta Loi,Perempuan,6,66,7,Normal,-0.41,Gizi Baik,-0.16,Normal,-0.41,Sehat,Kurang,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+19,Aisyah,Perempuan,7,66,5.6,Kurang,-2.62,Gizi Buruk,-3.08,Normal,-0.60,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Berisiko
+20,Arkana Syaqif,Laki-laki,7,67,7.8,Normal,-0.83,Gizi Baik,0.10,Normal,-1.48,Sehat,Baik,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+21,Arkasyah,Laki-laki,7,68,8,Normal,-0.52,Gizi Baik,0.05,Normal,-0.88,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+22,Kania,Perempuan,7,67,5.4,Kurang,-2.95,Gizi Buruk,-3.89,Normal,-0.21,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+23,Asheeqa,Perempuan,8,68,6,Kurang,-2.11,Gizi Kurang,-2.71,Normal,-0.30,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+24,Bimo kenzi,Laki-laki,8,73,6.8,Kurang,-2.25,Gizi Buruk,-3.69,Normal,0.87,Sehat,Kurang,Aman,Tidak Lengkap,Menengah,Berisiko
+25,Elzio Ashraf Mutawali,Laki-laki,8,67.5,6,Kurang,-2.89,Gizi Buruk,-3,Normal,-0.50,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+26,Nadif,Laki-laki,8,76,9.6,Normal,0.92,Gizi Baik,-0.13,Normal,2.28,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+27,Varrel,Laki-laki,8,67,7.5,Normal,-1.27,Gizi Baik,-0.38,Normal,-1.64,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+28,Mila Kurnia,Perempuan,9,70,6.5,Kurang,-2.10,Gizi Kurang,-2.78,Normal,-0.13,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+29,Sri Wulandri Siregar,Perempuan,9,70,6.2,Kurang,-2.22,Gizi Kurang,-3,Normal,-0.04,Sehat,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+30,Syakina,Perempuan,9,70,6.5,Kurang,-2.08,Gizi Kurang,-2.63,Normal,-0.30,Normal,Kurang,Aman,Lengkap,Menengah,Hampir Berisiko
+31,Ziya,Perempuan,9,71,8.7,Normal,0.39,Gizi Baik,0.43,Normal,0.20,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+32,Angel Riyaki,Perempuan,10,75,7.5,Kurang,-1,Gizi Kurang,-2.25,Normal,1.45,Normal,Kurang,Aman,Lengkap,Menengah,Hampir Berisiko
+33,Devano,Laki-laki,10,70,8.7,Normal,-0.44,Gizi Baik,0.93,Normal,-1.36,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+34,Devira,Perempuan,10,75,8.5,Normal,-0.17,Gizi Baik,-0.83,Normal,0.97,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+35,Shaka,Laki-laki,10,72,9,Normal,-0.33,Gizi Baik,0.03,Normal,-0.69,Sehat,Kurang,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+36,Alfaro,Laki-laki,11,73,9,Normal,-0.50,Gizi Baik,-0.12,Normal,-0.86,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+37,Hazam,Laki-laki,11,71,9,Normal,-0.44,Gizi Baik,0.48,Normal,-1.59,Sehat,Kurang,Aman,Lengkap,Rendah,Tidak Berisiko
+38,Alysa Kaysila,Perempuan,12,75,6.8,Kurang,-2.10,Gizi Buruk,-3.12,Normal,0.38,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+39,Ram Krisna,Laki-laki,12,75,10,Normal,0.29,Gizi Baik,0.61,Normal,-0.41,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+40,Gabriel,Laki-laki,13,75,8.9,Normal,-0.96,Gizi Baik,-0.93,Normal,-0.62,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+41,Zahira Ananda Putri,Perempuan,13,73,7.3,Kurang,-2.04,Gizi Kurang,-2.10,Normal,-1.12,Sehat,Kurang,Aman,Lengkap,Menengah,Hampir Berisiko
+42,Abbas,Laki-laki,14,78,8.7,Normal,-1.35,Gizi Baik,-1.93,Normal,0.18,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+43,Al Razka Hutagalung,Laki-laki,14,75.5,9,Normal,-1.11,Gizi Baik,-0.92,Normal,-0.98,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+44,Jario Gamaliel,Laki-laki,14,74,8,Kurang,-2.09,Gizi Kurang,-2,Normal,-1.39,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+45,Miko Grimbun,Laki-laki,14,78,8.1,Kurang,-2.06,Gizi Kurang,-2.85,Normal,0.04,Normal,Kurang,Aman,Lengkap,Menengah,Hampir Berisiko
+46,Qiana,Perempuan,14,71,9,Normal,-0.32,Gizi Baik,0.79,Normal,-1.97,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+47,Ryana Akila,Perempuan,14,76.4,10,Normal,0.53,Gizi Baik,0.55,Normal,0.27,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+48,Sheyna,Perempuan,14,72,8,Normal,-1.41,Gizi Baik,-0.90,Normal,-1.62,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+49,Evan Serrano Wiralim,Laki-laki,15,74,9,Normal,-1.20,Gizi Baik,-0.53,Normal,-1.78,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+50,M Kazaffi Alfarisky,Laki-laki,15,77,9,Normal,-1.31,Gizi Baik,-1.28,Normal,-0.82,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+51,Jerimi,Laki-laki,16,76,9.1,Normal,-1.28,Gizi Baik,-0.90,Normal,-1.36,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+52,Hanif Maqil,Laki-laki,17,78.9,8.1,Kurang,-2.54,Gizi Kurang,-3.09,Normal,-0.69,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Berisiko
+53,Shiva Nadira,Perempuan,17,78,10,Normal,-0.03,Gizi Baik,0.23,Normal,-0.44,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+54,Syifa Nadira,Perempuan,17,78,9.9,Normal,-0.14,Gizi Baik,0.12,Normal,-0.50,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+55,Albian,Laki-laki,18,77,11,Normal,-0.80,Gizi Baik,0.01,Normal,-1.74,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+56,Atharazka Adha Nst,Laki-laki,18,78,9,Normal,-1.84,Gizi Baik,-1.51,Normal,-1.57,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+57,Reivan Rafiandra,Laki-laki,18,82,10,Normal,-0.83,Gizi Baik,-1.10,Normal,0.03,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+58,Shazia Havva,Perempuan,18,77,9.6,Normal,-0.58,Gizi Baik,-0.01,Normal,-1.21,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+59,Arkan,Laki-laki,19,78,11,Normal,-0.19,Gizi Baik,0.93,Normal,-1.86,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+60,Rafael,Laki-laki,19,81,8.8,Kurang,-2.13,Gizi Kurang,-2.48,Normal,-0.67,Sehat,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+61,Akasyah,Laki-laki,20,80,10.5,Normal,-0.66,Gizi Baik,-0.05,Normal,-1.26,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+62,Azhan,Laki-laki,20,79,10.5,Normal,-0.75,Gizi Baik,0.27,Normal,-1.97,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+63,Andre,Laki-laki,20,83,7.7,Kurang,-3,Gizi Buruk,-3.33,Normal,-0.43,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Berisiko
+64,Abraham,Laki-laki,21,82,9,Kurang,-2.20,Gizi Kurang,-2.44,Normal,-0.89,Sehat,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+65,Azahra,Perempuan,21,79,10,Normal,-0.67,Gizi Baik,0.01,Normal,-1.36,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+66,Davin,Laki-laki,21,82,11,Normal,-0.64,Gizi Baik,0.07,Normal,-0.97,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+67,M. Akbar Nasution,Laki-laki,21,81,8.7,Kurang,-2.50,Gizi Kurang,-2.63,Normal,-1.23,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+68,Fadli Azhari,Laki-laki,22,82,8.6,Kurang,-2.84,Gizi Buruk,-3.03,Normal,-1.38,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+69,Galiya Kalisha Lesmana,Perempuan,22,84,9.5,Normal,-1.35,Gizi Baik,-1.80,Normal,-0.20,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+70,Kinanti,Perempuan,22,78.8,10,Normal,-0.80,Gizi Baik,0.12,Normal,-1.76,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+71,Raisha,Perempuan,22,80,7.6,Kurang,-2.69,Gizi Buruk,-3.25,Normal,-1.48,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+72,Zoro,Laki-laki,22,80.9,9,Kurang,-2.45,Gizi Kurang,-2.19,Normal,-1.72,Normal,Kurang,Aman,Lengkap,Menengah,Hampir Berisiko
+73,Amos Siregar,Laki-laki,23,81,11,Normal,-0.74,Gizi Baik,0.30,Normal,-1.84,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+74,Nazwa Maudi,Perempuan,23,80,10,Normal,-1.04,Gizi Baik,-0.21,Normal,-1.68,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+75,Rafka Abdul Sani,Laki-laki,23,81.8,9.3,Kurang,-2.17,Gizi Kurang,-2.02,Normal,-1.40,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+76,Alaysya,Perempuan,24,84,10,Normal,-1.09,Gizi Baik,-1.19,Normal,-0.51,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+77,Barra Ebrahim,Laki-laki,24,85,11,Normal,-0.84,Gizi Baik,-0.68,Normal,-0.69,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+78,Gufa Andra,Laki-laki,24,83,9.5,Kurang,-2.11,Gizi Kurang,-2,Normal,-1.32,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+79,Kanza,Perempuan,24,82.5,9.8,Normal,-1.29,Gizi Baik,-1.05,Normal,-1.03,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+80,kynannara Afsheen,Perempuan,24,84,9,Kurang,-2,Gizi Kurang,-2.45,Normal,-0.54,Normal,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+81,M Faas Attqi Nst,Laki-laki,24,83,11.5,Normal,-0.47,Gizi Baik,0.37,Normal,-1.39,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+82,Nuray Jessica,Perempuan,24,86,10.5,Normal,-0.69,Gizi Baik,-1.14,Normal,0.09,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+83,Arumi Nasha,Perempuan,25,81,10.7,Normal,-0.73,Gizi Baik,0.27,Normal,-1.72,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+84,Siti Faradilla Hrp,Perempuan,25,85.7,11.8,Normal,0.07,Gizi Baik,0.27,Normal,-0.35,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+85,Devan Pati,Laki-laki,26,87,9.6,Kurang,-2.39,Gizi Kurang,-3.05,Normal,-0.69,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Berisiko
+86,Mathew Putra Maturis,Laki-laki,26,89,13,Normal,0.35,Gizi Baik,0.34,Normal,0.15,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+87,Ayzam,Laki-laki,27,85,12.5,Normal,-0.16,Gizi Baik,0.83,Normal,-1.41,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+88,Siti Arifah wong,Perempuan,27,84,9.3,Kurang,-2.16,Gizi Kurang,-2.11,Normal,-1.20,Sehat,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+89,Abdurrahman,Laki-laki,28,88,11.5,Normal,-1.06,Gizi Baik,-0.70,Normal,-1.14,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+90,M Arrifai Sirait,Laki-laki,28,90,11.6,Normal,-0.99,Gizi Baik,-1.33,Normal,-0.24,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+91,Yumna,Perempuan,28,89,12,Normal,-0.27,Gizi Baik,-0.37,Normal,-0.15,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+92,Zara Salsabila,Perempuan,28,86,11,Normal,-0.88,Gizi Baik,-0.65,Normal,-0.85,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+93,Gozali,Laki-laki,29,90,13,Normal,-0.05,Gizi Baik,0.11,Normal,-0.30,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+94,Arjuna Syahputra Nst,Laki-laki,30,89,12,Normal,-0.93,Gizi Baik,-0.66,Normal,-0.95,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+95,Kansha Azzahra,Perempuan,30,88,13.2,Normal,0.25,Gizi Baik,0.92,Normal,-0.85,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+96,Syanum,Perempuan,30,89,11.9,Normal,-0.95,Gizi Baik,-0.77,Normal,-0.87,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+97,Maliki Sena,Laki-laki,31,88,12.1,Normal,-0.91,Gizi Baik,-0.31,Normal,-1.34,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+98,Nadria,Perempuan,31,89,12,Normal,-1.01,Gizi Baik,-0.66,Normal,-1.11,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+99,Shafana Nasafauzra,Perempuan,31,87.7,13,Normal,0.05,Gizi Baik,0.87,Normal,-1.12,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+100,Shiraz Idraki,Laki-laki,31,87,11.3,Normal,-1.46,Gizi Baik,-0.92,Normal,-1.57,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+101,Yuratika Ni Siregar,Perempuan,31,88.5,13,Normal,0.05,Gizi Baik,0.64,Normal,-0.84,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+102,Anika Maysi,Perempuan,32,88,12,Normal,-0.71,Gizi Baik,-0.14,Normal,-1.17,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+103,Qinan,Perempuan,32,90,13,Normal,-0.06,Gizi Baik,0.31,Normal,-0.60,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+104,Arvin,Laki-laki,33,90.3,13.5,Normal,-0.16,Gizi Baik,0.57,Normal,-1.06,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+105,Fatya Sena,Perempuan,33,89,13,Normal,-0.13,Gizi Baik,0.53,Normal,-1,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+106,Helmer,Laki-laki,33,94,12.6,Normal,-0.83,Gizi Baik,-1.17,Normal,-0.11,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+107,M Arya Siregar,Laki-laki,33,87,12.6,Normal,-0.76,Gizi Baik,0.43,Normal,-1.96,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+108,Anaira Yusra,Perempuan,34,90,13.6,Normal,0.05,Gizi Baik,0.80,Normal,-1.01,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+109,Syakila,Perempuan,34,88,13.2,Normal,-0.12,Gizi Baik,0.92,Normal,-1.46,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+110,Zamzam Okhairi,Laki-laki,34,92.5,12.7,Normal,-0.81,Gizi Baik,-0.74,Normal,-0.61,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+111,Amira,Perempuan,35,89,11.8,Normal,-1.18,Gizi Baik,-0.56,Normal,-1.44,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+112,Alena,Perempuan,36,99,14,Normal,-0.21,Gizi Baik,-0.70,Normal,0.50,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+113,Hafidz,Laki-laki,36,94,12.4,Normal,-1.25,Gizi Baik,-1.38,Normal,-0.64,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+114,Yaswin Peren,Perempuan,36,89,10.8,Kurang,-2.03,Gizi Baik,-1.59,Normal,-1.63,Sehat,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+115,Aidan Yusuf,Laki-laki,37,90,13,Normal,-0.94,Gizi Baik,0.11,Normal,-1.84,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+116,Khalikiya Adibazaahra,Perempuan,37,90,13,Normal,-0.63,Gizi Baik,0.31,Normal,-1.54,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+117,Kirana Afroza,Perempuan,37,88,10.7,Kurang,-2.13,Gizi Baik,-1.46,Normal,-1.93,Sehat,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+118,M Rafil,Laki-laki,37,90,11,Kurang,-2.32,Gizi Kurang,-2.03,Normal,-1.83,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+119,Natasya,Perempuan,37,95,13.2,Normal,-0.50,Gizi Baik,-0.57,Normal,-0.23,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+120,Rafa Ar Rahman,Laki-laki,37,91,11.3,Kurang,-2.05,Gizi Baik,-1.91,Normal,-1.49,Normal,Kurang,Aman,Lengkap,Rendah,Tidak Berisiko
+121,Raline Callista Putri,Perempuan,37,88,11.8,Normal,-1.34,Gizi Baik,-0.33,Normal,-1.96,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+122,Rizky,Laki-laki,37,93,13,Normal,-0.89,Gizi Baik,-0.55,Normal,-0.96,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+123,Adzriel Rafif,Laki-laki,38,94,14,Normal,-0.35,Gizi Baik,0.16,Normal,-0.83,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+124,Fachyra Tivanya,Perempuan,38,89,11.9,Normal,-1.35,Gizi Baik,-0.46,Normal,-1.82,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+125,M Azzam Alfathan,Laki-laki,38,93,12,Normal,-1.65,Gizi Baik,-1.58,Normal,-1.13,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+126,Beverly Claire,Perempuan,39,93,12,Normal,-1.41,Gizi Baik,-1.25,Normal,-1,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+127,Desira Jaya,Perempuan,39,94,10.9,Kurang,-2.06,Gizi Kurang,-2.45,Normal,-0.77,Sehat,Kurang,Aman,Tidak Lengkap,Menengah,Hampir Berisiko
+128,Keyla Ananda Putri,Perempuan,39,95,14.8,Normal,0.19,Gizi Baik,0.70,Normal,-0.54,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+129,Queen Samaira,Perempuan,39,94,13,Normal,-0.80,Gizi Baik,-0.54,Normal,-0.78,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+130,Bima,Laki-laki,40,92,13,Normal,-1.20,Gizi Baik,-0.34,Normal,-1.75,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+131,Khabib Atha Fariz,Laki-laki,40,96,12.4,Normal,-1.53,Gizi Baik,-1.81,Normal,-0.62,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+132,Nadine Nazeera,Perempuan,40,96,15,Normal,0.21,Gizi Baik,0.64,Normal,-0.42,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+133,Agrata,Laki-laki,41,92,10.8,Kurang,-2.70,Gizi Kurang,-2.75,Normal,-1.84,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+134,Al Fariski,Laki-laki,41,96,13.8,Normal,-0.74,Gizi Baik,-0.45,Normal,-0.77,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+135,Arkanza,Laki-laki,41,95,13.6,Normal,-0.88,Gizi Baik,-0.42,Normal,-1.05,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+136,Azzam Auliansyah,Laki-laki,41,102.8,14.9,Normal,-0.10,Gizi Baik,-0.92,Normal,0.93,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+137,Elvano Loi,Laki-laki,41,93,11.4,Kurang,-2.37,Gizi Kurang,-2.25,Normal,-1.64,Sehat,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+138,Fatiha Nafayza,Perempuan,41,95,14.7,Normal,-0.05,Gizi Baik,0.62,Normal,-0.68,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+139,Indah Kanaya,Perempuan,41,96,13.1,Normal,-0.90,Gizi Baik,-0.87,Normal,-0.55,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+140,Ramzafir,Laki-laki,42,98,12.6,Normal,-1.58,Gizi Kurang,-2.04,Normal,-0.42,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+141,M Yazid Lubis,Laki-laki,43,92.7,13.5,Normal,-1.11,Gizi Baik,0.03,Normal,-1.96,Normal,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+142,Sheeqa Farah,Perempuan,43,95,13.6,Normal,-0.78,Gizi Baik,-0.24,Normal,-1.07,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+143,Alif Alfarizi,Laki-laki,44,95.6,14.6,Normal,-0.55,Gizi Baik,0.36,Normal,-1.33,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+144,Anjani,Perempuan,44,92,13.5,Normal,-0.97,Gizi Baik,0.22,Normal,-1.93,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+145,Faris,Laki-laki,44,96,14.8,Normal,-0.42,Gizi Baik,0.42,Normal,-1.18,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+146,Hafi Alhabsyiah Latif,Laki-laki,44,97,15.5,Normal,-0.18,Gizi Baik,0.77,Normal,-1.13,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+147,Memey,Perempuan,44,95,14.7,Normal,-0.28,Gizi Baik,0.62,Normal,-1.22,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+148,Amaira Nur Shakira,Perempuan,45,96.8,14.9,Normal,-0.26,Gizi Baik,0.47,Normal,-0.98,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+149,kaneshia Niskordias,Perempuan,45,97,14,Normal,-0.76,Gizi Baik,-0.32,Normal,-0.92,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+150,Karel Al-Kahfi,Laki-laki,45,93.6,14,Normal,-0.95,Gizi Baik,0.26,Normal,-1.93,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+151,Yogi Gibran,Laki-laki,45,94.8,12.2,Kurang,-2.07,Gizi Baik,-1.70,Normal,-1.68,Normal,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+152,Farid,Laki-laki,46,99,13.5,Normal,-1.33,Gizi Baik,-1.16,Normal,-0.96,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+153,Marcello,Laki-laki,46,94,14.7,Normal,-0.68,Gizi Baik,0.76,Normal,-1.98,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+154,Partogi Yosafat Gevarriel,Laki-laki,46,100,14,Normal,-1.07,Gizi Baik,-1.14,Normal,-0.52,Sehat,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+155,Riri Uli Yoseline,Perempuan,46,97,13,Normal,-1.43,Gizi Baik,-1.16,Normal,-1.08,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+156,Ardiaz,Laki-laki,47,98.9,15.8,Normal,-0.19,Gizi Baik,0.67,Normal,-1.03,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+157,Abdul,Laki-laki,48,99,14.5,Normal,-0.91,Gizi Baik,-0.48,Normal,-0.98,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+158,Aqilla Az Zahra,Perempuan,48,101,15.7,Normal,-0.17,Gizi Baik,0.13,Normal,-0.40,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+159,Araska,Laki-laki,48,100,15,Normal,-0.67,Gizi Baik,-0.29,Normal,-0.77,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+160,Alvia Chayra Fayyola,Perempuan,49,100,12.4,Kurang,-2.03,Gizi Kurang,-2.35,Normal,-0.77,Normal,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+161,Andhara,Laki-laki,49,103,14.9,Normal,-0.76,Gizi Baik,-1.04,Normal,-0.12,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+162,Nafisa Tahirah,Perempuan,49,99,15,Normal,-0.53,Gizi Baik,0.04,Normal,-0.91,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+163,Putri,Perempuan,49,103,15.5,Normal,-0.29,Gizi Baik,-0.44,Normal,0.01,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+164,Shahila,Perempuan,49,103,13.5,Normal,-1.37,Gizi Kurang,-2.01,Normal,-0.07,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+165,Tantri,Perempuan,49,100,14,Normal,-1.09,Gizi Baik,-0.94,Normal,-0.75,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+166,Khaira Nurnisa,Perempuan,50,98,12.5,Kurang,-2.01,Gizi Baik,0.13,Normal,-1.30,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+167,Matthew Timothy,Laki-laki,50,106,17.8,Normal,0.49,Gizi Baik,0.42,Normal,0.35,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+168,Varail Ethan,Laki-laki,50,105,17,Normal,0.16,Gizi Baik,0.11,Normal,0.16,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+169,Azkha,Laki-laki,51,99,13,Kurang,-2.02,Gizi Baik,-1.86,Normal,-1.36,Sehat,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+170,Bilqis Nur Zanah,Perempuan,51,100,14.1,Normal,-1.17,Gizi Baik,-0.86,Normal,-0.97,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+171,Kenzi Galid,Laki-laki,51,102,16.6,Normal,-0.07,Gizi Baik,0.49,Normal,-0.63,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+172,M Rafka Alfarizky,Laki-laki,51,101,16.5,Normal,-0.13,Gizi Baik,0.64,Normal,-0.88,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+173,Muhaaisyah Rasri,Laki-laki,51,101,16,Normal,-0.41,Gizi Baik,0.27,Normal,-0.94,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+174,Safana,Perempuan,51,106,15,Normal,-0.75,Gizi Baik,-1.46,Normal,0.32,Sehat,Baik,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+175,Aisyah Al Munawaroh,Perempuan,52,101,15,Normal,-0.78,Gizi Baik,-0.37,Normal,-0.86,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+176,Asyla Annafi,Perempuan,52,104,13.6,Normal,-1.54,Gizi Kurang,-2.14,Normal,-0.23,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+177,Quinsa Uli,Perempuan,52,99.8,12.7,Kurang,-2.02,Gizi Baik,-1.96,Normal,-1.17,Sehat,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+178,Septiani,Perempuan,52,100.5,14.6,Normal,-1.01,Gizi Baik,-0.57,Normal,-1.02,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+179,Shazad,Laki-laki,52,102,16.5,Normal,-0.18,Gizi Baik,0.42,Normal,-0.73,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+180,Andra Zawri,Laki-laki,53,106,17.3,Normal,0.05,Gizi Baik,0.09,Normal,-0.03,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+181,M Azka Syahputra,Laki-laki,53,102,16.7,Normal,-0.22,Gizi Baik,0.56,Normal,-0.95,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+182,Raula,Laki-laki,53,100,13.2,Kurang,-2.01,Gizi Baik,-1.89,Normal,-1.33,Normal,Kurang,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+183,Husna Syahira Simamora,Perempuan,54,105,16.3,Normal,-0.35,Gizi Baik,-0.32,Normal,-0.25,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+184,Ayura,Perempuan,55,104,16,Normal,-0.53,Gizi Baik,-0.30,Normal,-0.55,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+185,M Umais,Laki-laki,55,105,16.9,Normal,-0.26,Gizi Baik,-0.07,Normal,-0.38,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+186,Abdul Khair,Laki-laki,56,107.8,17.6,Normal,0.07,Gizi Baik,-0.03,Normal,0.11,Sehat,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+187,Cleshi,Perempuan,56,105,15,Normal,-1.10,Gizi Baik,-1.24,Normal,-0.50,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+188,Fatiha Aisyah,Perempuan,56,101,15,Normal,-1.09,Gizi Baik,-0.37,Normal,-1.36,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+189,Kenan Ramadhan Abdillah,Laki-laki,56,106.6,16.8,Normal,-0.38,Gizi Baik,-0.36,Normal,-0.28,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+190,Kyara Annisa,Perempuan,56,99,14.4,Normal,-1.09,Gizi Baik,-0.69,Normal,-1.03,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+191,Maudy Kasih Indah Siregar,Perempuan,56,106,14.2,Normal,-1.50,Gizi Kurang,-2.09,Normal,-0.28,Normal,Baik,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
+192,Nadhira,Perempuan,56,99,16,Normal,-0.62,Gizi Baik,0.74,Normal,-1.78,Normal,Baik,Aman,Tidak Lengkap,Rendah,Tidak Berisiko
+193,Al Zea Hamaira,Perempuan,57,101,13.3,Kurang,-2.01,Gizi Baik,-1.74,Normal,-1.40,Normal,Kurang,Aman,Lengkap,Menengah,Tidak Berisiko
+194,Azzeya Aisyah Maira,Perempuan,57,108,17.5,Normal,-0.03,Gizi Baik,-0.21,Normal,0.12,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+195,Fitri Kaira,Perempuan,57,105,16,Normal,0.69,Gizi Baik,-0.52,Normal,-0.59,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+196,M Ilham Araska,Laki-laki,57,107,13.7,Kurang,-2.03,Gizi Kurang,-2.96,Normal,-0.31,Normal,Kurang,Aman,Lengkap,Rendah,Hampir Berisiko
+197,Abdul Rahman,Laki-laki,58,107,15.3,Normal,-1.20,Gizi Baik,-1.59,Normal,-0.35,Normal,Baik,Aman,Tidak Lengkap,Menengah,Tidak Berisiko
+198,Akifah Nailah,Perempuan,58,105,14,Normal,-1.65,Gizi Baik,-1.95,Normal,-0.66,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+199,Alisha Zahra,Perempuan,58,104,14.2,Normal,-1.60,Gizi Baik,-1.64,Normal,-0.87,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+200,Delvi,Perempuan,58,102,13.4,Kurang,-2.05,Gizi Baik,-1.87,Normal,-1.33,Normal,Kurang,Aman,Lengkap,Rendah,Tidak Berisiko
+201,Fadli,Laki-laki,58,108,16.5,Normal,-0.65,Gizi Baik,-0.90,Normal,-0.18,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+202,Adzka Welly,Laki-laki,59,110,16.6,Normal,-0.66,Gizi Baik,-0.61,Normal,-0.49,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+203,Aditya,Laki-laki,60,107,17,Normal,-0.46,Gizi Baik,-0.30,Normal,-0.48,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+204,Adzam Pratama,Laki-laki,60,108.8,17,Normal,-0.55,Gizi Baik,-0.66,Normal,-0.28,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+205,Gebriel,Laki-laki,60,106,16,Normal,-1.02,Gizi Baik,-0.83,Normal,-0.86,Normal,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+206,Hazira Azalwa,Perempuan,60,107.7,16,Normal,-0.90,Gizi Baik,-1.08,Normal,-0.41,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+207,Ica,Perempuan,60,108,15,Normal,-1.34,Gizi Baik,-1.92,Normal,-0.28,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+208,Rohani,Perempuan,60,108.6,16.9,Normal,-0.51,Gizi Baik,-0.77,Normal,-0.19,Sehat,Baik,Aman,Lengkap,Menengah,Tidak Berisiko
+209,Sri Wahyu Astuti,Perempuan,60,107,17,Normal,-0.48,Gizi Baik,-0.30,Normal,-0.52,Sehat,Baik,Aman,Lengkap,Tinggi,Tidak Berisiko
+210,Tazkia Altahfunisa,Perempuan,60,108,14.8,Normal,-1.43,Gizi Kurang,-2.07,Normal,-0.25,Normal,Kurang,Aman,Tidak Lengkap,Rendah,Hampir Berisiko
